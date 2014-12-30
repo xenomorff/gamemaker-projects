@@ -54,6 +54,7 @@
     <instance objName="obj_bird" x="128" y="288" name="inst_A2A98BE2" locked="0" code="" scaleX="4.03703689575195" scaleY="4.5" colour="4294967295" rotation="0"/>
     <instance objName="controller" x="0" y="0" name="inst_F7769B9C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_cleaner" x="-576" y="-32" name="inst_45A6785A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_explode" x="128" y="128" name="inst_AF6D63A4" locked="0" code="" scaleX="3.55555558204651" scaleY="3.76470589637756" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

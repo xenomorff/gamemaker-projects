@@ -6,9 +6,15 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\spr_bird</sprite>
+    <sprites name="Duck Parts">
+      <sprite>sprites\spr_bird</sprite>
+      <sprite>sprites\spr_explode</sprite>
+      <sprite>sprites\spr_duck_head</sprite>
+      <sprite>sprites\spr_foot_one</sprite>
+    </sprites>
     <sprite>sprites\spr_pipe</sprite>
     <sprite>sprites\spr_cleanup</sprite>
+    <sprite>sprites\spr_ammo</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -19,6 +25,9 @@
     <object>objects\controller</object>
     <object>objects\obj_pipe</object>
     <object>objects\obj_cleaner</object>
+    <object>objects\obj_explode</object>
+    <object>objects\obj_duck_head</object>
+    <object>objects\obj_ammo</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
