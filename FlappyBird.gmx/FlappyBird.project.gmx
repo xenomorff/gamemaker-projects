@@ -28,9 +28,11 @@
     <object>objects\obj_explode</object>
     <object>objects\obj_duck_head</object>
     <object>objects\obj_ammo</object>
+    <object>objects\obj_draw_score</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
+    <room>rooms\room1</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
